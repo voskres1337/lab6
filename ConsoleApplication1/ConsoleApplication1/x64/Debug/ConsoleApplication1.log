@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\RealTopG\Desktop\oopLABS\ConsoleApplication1\ConsoleApplication1\class.h(28,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\RealTopG\Desktop\oopLABS\ConsoleApplication1\ConsoleApplication1\class.h(37,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\RealTopG\Desktop\oopLABS\ConsoleApplication1\ConsoleApplication1\summator.h(20,25): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\RealTopG\Desktop\oopLABS\ConsoleApplication1\ConsoleApplication1\summator.h(35,23): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\RealTopG\Desktop\oopLABS\ConsoleApplication1\ConsoleApplication1\main.cpp(16,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\RealTopG\Desktop\oopLABS\ConsoleApplication1\ConsoleApplication1\main.cpp(109,59): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\RealTopG\Desktop\oopLABS\ConsoleApplication1\ConsoleApplication1\main.cpp(109,46): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\RealTopG\Desktop\oopLABS\ConsoleApplication1\ConsoleApplication1\main.cpp(112,80): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\RealTopG\Desktop\oopLABS\ConsoleApplication1\ConsoleApplication1\main.cpp(112,69): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\RealTopG\Desktop\oopLABS\ConsoleApplication1\ConsoleApplication1\main.cpp(112,55): warning C4305: аргумент: усечение из "double" в "float"
+  ConsoleApplication1.vcxproj -> C:\Users\RealTopG\Desktop\oopLABS\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
